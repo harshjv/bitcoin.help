@@ -1,0 +1,14 @@
+[[redirects]]
+  from = "/info"
+  to = "https://www.lopp.net/bitcoin-information.html"
+  status = 302
+
+[[redirects]]
+  from = "/dev"
+  to = "https://bitcoindev.network/"
+  status = 302
+
+[[redirects]]
+  from = "/*"
+  to = "/dev"
+  status = 302
