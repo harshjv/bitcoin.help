@@ -9,6 +9,11 @@
   status = 302
 
 [[redirects]]
+  from = "/saylor"
+  to = "https://www.strategy.com/"
+  status = 302
+
+[[redirects]]
   from = "/*"
-  to = "/dev"
+  to = "/saylor"
   status = 302
